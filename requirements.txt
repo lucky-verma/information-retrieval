@@ -1,0 +1,14 @@
+# Core deps for aws-rag-pipeline.ipynb (local/Colab)
+tiktoken
+transformers
+accelerate
+bitsandbytes
+datasets
+py7zr
+chromadb
+sentence_transformers
+langchain_community
+gradio
+pydantic
+google-generativeai
+rouge-score
